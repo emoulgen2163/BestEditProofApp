@@ -18,5 +18,4 @@ See [besteditproof.com](https://besteditproof.com/en)
 
 ## Screens
 
-![App Screenshots (in Figma)](docs/screenshots/appUI.fig)
-...
+[App Screenshots (in Figma)](docs/screenshots/appUI.fig)
