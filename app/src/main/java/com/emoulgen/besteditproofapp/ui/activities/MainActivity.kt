@@ -1,4 +1,4 @@
-package com.emoulgen.besteditproofapp.ui.activities
+package com.emoulgen.besteditproofapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
