@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VibeCodingApp</string>
+    <!-- Replace with your actual Web Client ID from google-services.json -->
+    <!-- You can find it in Firebase Console > Project Settings > Your Apps > Web App -->
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID_HERE</string>
+    <!-- Replace with your Facebook App ID from Facebook Developer Console -->
+    <string name="facebook_app_id">26509193915337064</string>
+    <string name="facebook_client_token">b9ea2b3a664dc3949e48b1e5ba9985a0</string>
+    <string name="fb_login_protocol_scheme">fbYOUR_FACEBOOK_APP_ID</string>
+    <string name="fb_login_app_secret">e4cb3674876debd23f9f06d9afe82026</string>
+</resources>

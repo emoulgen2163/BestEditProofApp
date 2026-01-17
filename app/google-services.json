@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015387865580",
+    "project_id": "besteditproofapp",
+    "storage_bucket": "besteditproofapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015387865580:android:c3ff648f1e2ef6497240c9",
+        "android_client_info": {
+          "package_name": "com.emoulgen.besteditproofapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-ozOuWVMaNC-HHdedsseEIvQ0q_GKUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015387865580:android:fc50a5b20d5e6f967240c9",
+        "android_client_info": {
+          "package_name": "com.emoulgen.vibecodingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-ozOuWVMaNC-HHdedsseEIvQ0q_GKUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
